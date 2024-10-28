@@ -1,4 +1,11 @@
 *{
   font-size:24px;
-  
+}
+.style{
+  font-family: montserrat;
+  font-size:28px;
+  text-transform:capitalize;
+  letter-spacing:4px;
+  word-spacing:100px;
+  line-height:50px;
 }
