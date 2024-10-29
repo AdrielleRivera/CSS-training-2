@@ -1,11 +1,13 @@
 *{
   font-size:24px;
 }
+body{
+  text-align:justify;
+  padding:100px;
+}
 .style{
-  font-family: montserrat;
-  font-size:28px;
-  text-transform:capitalize;
-  letter-spacing:4px;
-  word-spacing:100px;
-  line-height:50px;
+  text-decoration: overline;
+}
+.lorem{
+  text-decoration: underline;
 }
