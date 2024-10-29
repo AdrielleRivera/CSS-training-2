@@ -8,6 +8,8 @@ body{
 .style{
   text-decoration: overline;
 }
-.lorem{
-  text-decoration: underline;
+
+.lorem a{
+  text-decoration: none;
+  color:red;
 }
