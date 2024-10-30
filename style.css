@@ -7,9 +7,14 @@ body{
 }
 .style{
   text-decoration: overline;
+  font-family:sofia;
+}
+.lorem{
+  font-family:Sofia Sans;
 }
 
 .lorem a{
   text-decoration: none;
   color:red;
+  font-family:Alice;
 }
