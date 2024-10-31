@@ -8,9 +8,18 @@ body{
 }
 div{
   background-color:yellow;
+  display:inline;
 }
 p{
   background-color:violet;
+}
+span{
+  background-color:green;
+  color:white;
+  display:inline-block;
+  height:100px;
+  width:30%;
+  border-radius:10px;
 }
 .style{
   text-decoration: overline;
