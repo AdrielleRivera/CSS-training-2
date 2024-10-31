@@ -6,10 +6,15 @@ body{
   padding:100px;
   background-color:rgba(255,0,0,.1);
 }
+div{
+  background-color:yellow;
+}
+p{
+  background-color:violet;
+}
 .style{
   text-decoration: overline;
   font-family:sofia;
-  color:rgb(255,100,0);
 }
 .lorem{
   font-family:Sofia Sans;
